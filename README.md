@@ -27,7 +27,7 @@ Play the game in your browser:
 
 Replace the paths below with your actual images:
 
-![Gameplay Screenshot 1](screenshots/screenshot1.png)  
+![Gameplay Screenshot 1](Screenshot.png)  
 *Pop bubbles and score combos!*
 
 
