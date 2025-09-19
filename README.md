@@ -34,7 +34,7 @@ Replace the paths below with your actual images:
 ---
 
 ## 📦 Project Structure
-
+```
 
 Bubble-Pop-Combo/
 ├── index.html # Main HTML file
@@ -42,7 +42,7 @@ Bubble-Pop-Combo/
 ├── script.js # Game logic and interactions
 ├── screenshots/ # Folder for screenshots
 └── README.md # Project documentati
-
+```
 ---
 
 ## 🚀 How to Run Locally
