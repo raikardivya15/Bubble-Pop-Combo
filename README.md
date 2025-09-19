@@ -37,13 +37,11 @@ Replace the paths below with your actual images:
 
 
 Bubble-Pop-Combo/
-│
-├── index.html        # Main HTML file
-├── style.css         # Styling and animations
-├── script.js         # Game logic and interactions
-├── screenshots/      # Folder for screenshots
-└── README.md         # Project documentation
-
+├── index.html # Main HTML file
+├── style.css # Styling and animations
+├── script.js # Game logic and interactions
+├── screenshots/ # Folder for screenshots
+└── README.md # Project documentati
 
 ---
 
