@@ -21,6 +21,24 @@
 Play the game in your browser:  
 [Bubble Pop Combo Live](https://raikardivya15.github.io/Bubble-Pop-Combo/)
 
+
+## APK Release
+You can download the Android app from the latest release:  
+[Download app-release.apk](https://github.com/raikardivya15/Bubble-Pop-Combo/blob/main/app-release.apk)
+
+---
+
+## Installation (Web)
+1. Clone or download the repository.  
+2. Ensure `index.html`, `style.css`, and `script.js` are in the same folder.  
+3. Open `index.html` in a browser to play.  
+
+## Installation (Android)
+1. Download the latest `app-release.apk` from the release page.  
+2. Enable **Install from Unknown Sources** on your Android device.  
+3. Install and enjoy the game.
+
+---
 ---
 
 ## 🖼️ Screenshots
